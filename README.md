@@ -59,7 +59,9 @@ Food bank is a food review posting site developed in Django. Where user can Regi
 
 <h3>Profile Page</h3>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/19981097/54107006-1a194d80-4402-11e9-898a-1673e7ca5f31.png" width="100%"</img> 
+  ![Screenshot 2024-03-24 152029](https://github.com/ishaaan3005/FoodBank-Django/assets/157878759/1839c935-999a-4ff8-99ba-dee176f539f3)
+
+
 </div>
 
 <h3>Create Post Page</h3>
